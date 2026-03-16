@@ -321,7 +321,7 @@ body.page .hestia-blogs:not(.is-shortcode):hover:before,
 }
 
 .customize-partial-refreshing:before {
-  content: url(./../img/ajax-loader.gif) !important;
+  content: url(https://https://nanlingxq.github.io/WordPressPage/wp-content/uploads/wp2static-processed-site/wp-content/themes/hestia/assets/img/ajax-loader.gif) !important;
   top: 50% !important;
   transform: translate3d(-50%, 0, 0);
   border: none !important;
