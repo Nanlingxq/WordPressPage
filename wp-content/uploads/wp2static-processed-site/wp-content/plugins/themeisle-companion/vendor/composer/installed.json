@@ -100,7 +100,7 @@
                 {
                     "name": "ThemeIsle team",
                     "email": "friends@themeisle.com",
-                    "homepage": "https://themeisle.com/"
+                    "homepage": "https://themeisle.com"
                 }
             ],
             "description": "A WordPress library to create full width page templates.",
@@ -137,7 +137,7 @@
                 {
                     "name": "ThemeIsle team",
                     "email": "friends@themeisle.com",
-                    "homepage": "https://themeisle.com/"
+                    "homepage": "https://themeisle.com"
                 }
             ],
             "description": "Themeisle SDK.",
@@ -412,7 +412,7 @@
                 }
             ],
             "description": "cURL client for PHP-HTTP",
-            "homepage": "http://php-http.org/",
+            "homepage": "http://php-http.org",
             "keywords": [
                 "curl",
                 "http"
@@ -478,7 +478,7 @@
                 }
             ],
             "description": "Finds installed HTTPlug implementations and PSR-7 message factories",
-            "homepage": "http://php-http.org/",
+            "homepage": "http://php-http.org",
             "keywords": [
                 "adapter",
                 "client",
@@ -546,7 +546,7 @@
                 }
             ],
             "description": "HTTPlug, the HTTP client abstraction for PHP",
-            "homepage": "http://httplug.io/",
+            "homepage": "http://httplug.io",
             "keywords": [
                 "client",
                 "http"
@@ -624,7 +624,7 @@
                 }
             ],
             "description": "HTTP Message related tools",
-            "homepage": "http://php-http.org/",
+            "homepage": "http://php-http.org",
             "keywords": [
                 "http",
                 "message",
@@ -679,7 +679,7 @@
                 }
             ],
             "description": "Factory interfaces for PSR-7 HTTP Message",
-            "homepage": "http://php-http.org/",
+            "homepage": "http://php-http.org",
             "keywords": [
                 "factory",
                 "http",
@@ -741,7 +741,7 @@
                 }
             ],
             "description": "Promise used for asynchronous HTTP requests",
-            "homepage": "http://httplug.io/",
+            "homepage": "http://httplug.io",
             "keywords": [
                 "promise"
             ],

@@ -12,7 +12,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("https://https://nanlingxq.github.io/WordPressPage/wp-content/uploads/wp2static-processed-site/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-regular-400.woff2") format("woff2"), url("https://https://nanlingxq.github.io/WordPressPage/wp-content/uploads/wp2static-processed-site/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-regular-400.ttf") format("truetype"); }
+  src: url("../webfonts/fa-regular-400.woff2") format("woff2"), url("../webfonts/fa-regular-400.ttf") format("truetype"); }
 
 .far,
 .fa-regular {
